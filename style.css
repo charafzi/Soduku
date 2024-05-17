@@ -1,0 +1,49 @@
+
+.box
+{
+  background-color: gray;
+  border: 3px solid black; /* Set border color to red */
+}
+
+.small-box
+{
+  font-weight: bold;
+  background-color: gray;
+  border: 1px solid black;
+  color: black;
+}
+
+.rep-box
+{
+  font-weight: bold;
+  background-color: gray;
+  border: 1px solid black;
+  color: red;
+}
+
+.solved{
+  font-weight: bold;
+  background-color: gray;
+  border: 1px solid black;
+  color: green;
+}
+
+.dialog{
+  background-color: azure;
+  font-weight: bold;
+  color: gray;
+}
+
+
+.button-num{
+  font-weight: bold;
+  background-color: burlywood;
+  border: 1px solid black;
+  color: black;
+}
+
+.button{
+  background-color: burlywood;
+  border: 3px solid black;
+  color: black;
+}
